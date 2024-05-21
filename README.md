@@ -29,4 +29,3 @@ F T F -> koga price<300 discount>0 charAt(0)=!'0' <br>
 F F T -> koga price<300 discount<0 charAt(0)=='0' <br>
 F F F -> koga price<300 discount<0 charAt(0)=!'0' <br>
 
-# Објаснување на напишаните unit tests
