@@ -16,7 +16,7 @@
 3)Треттиот тест е кога barcode==null <br>
 4)Четвртиот тест е кога barcode==-1 <br>
 5)Петиот тест е ако discount<0 <br>
-# Тест случаи според критериумот Multiple Condition 
+# Објаснување на напишаните тестови според  Multiple Condition
 if (item.getPrice() > 300 && item.getDiscount() > 0 && item.getBarcode().charAt(0) 
 == '0').
 
